@@ -13,9 +13,9 @@ TagManager:
   - UI
   - 
   - 
-  - floor
-  - 
-  - 
+  - Floor
+  - Wall
+  - Floor(40)
   - 
   - 
   - 
