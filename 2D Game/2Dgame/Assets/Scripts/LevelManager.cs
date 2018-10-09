@@ -5,7 +5,7 @@ using UnityEngine;
 public class LevelManager : MonoBehaviour {
 
 	public GameObject CurrentCheckPoint;
-	private Rigidbody2D CactusJones;
+	public Rigidbody2D CactusJones;
 
 	// Particles
 	public GameObject DeathParticle;
@@ -25,7 +25,7 @@ public class LevelManager : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		CactusJones = FindObjectOfType<Rigidbody2D> ();
+		//CactusJones = FindObjectOfType<Rigidbody2D> ();
 	}
 	
 	public void RespawnPlayer(){
