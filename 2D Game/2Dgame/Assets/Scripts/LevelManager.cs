@@ -45,7 +45,7 @@ public class LevelManager : MonoBehaviour {
 		// Point Penalty
 		ScoreManager.AddPoints(-PointPenaltyOnDeath);
 		// Debug Message
-		Debug.Log ("CactusJones Raspawn");
+		Debug.Log ("CactusJones Respawn");
 		// Respawn Dealay
 		yield return new WaitForSeconds (RespawnDelay);
 		// Gravity Restore
