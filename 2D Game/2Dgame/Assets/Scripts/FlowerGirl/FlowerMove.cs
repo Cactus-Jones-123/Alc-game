@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Flowermove : MonoBehaviour {
+public class FlowerMove : MonoBehaviour {
 
     //player movement variables
     public int moveSpeed;
@@ -31,7 +31,7 @@ public class Flowermove : MonoBehaviour {
     void Update () {
 
         //this code makes the character jump
-        if(Input.GetKeyDown (KeyCode.UpArrow)&& grounded){
+        if(Input.GetKeyDown (KeyCode.W)&& grounded){
             Jump();
         }
 
@@ -39,7 +39,7 @@ public class Flowermove : MonoBehaviour {
         if(grounded)
             doubleJump = false;
 
-        if(Input.GetKeyDown (KeyCode.UpArrow)&& !doubleJump && !grounded){
+        if(Input.GetKeyDown (KeyCode.W)&& !doubleJump && !grounded){
             Jump();
             doubleJump = true;
         }
@@ -47,11 +47,11 @@ public class Flowermove : MonoBehaviour {
         moveVelocity = 0f;
 
 	   // this code makes the character move from side to side usinng the ASD keys
-	    if(Input.GetKey (KeyCode.RightArrow)){
+	    if(Input.GetKey (KeyCode.D)){
 		   //GetComponent<Rigidbody2D>().velocity = new Vector2(moveSpeed, GetComponent<Rigidbody2D>().velocity.y);
            moveVelocity = moveSpeed;
         }
-        if(Input.GetKey (KeyCode.LeftArrow)){
+        if(Input.GetKey (KeyCode.A)){
 		   //GetComponent<Rigidbody2D>().velocity = new Vector2(-moveSpeed, GetComponent<Rigidbody2D>().velocity.y);
            moveVelocity = -moveSpeed;
         }
