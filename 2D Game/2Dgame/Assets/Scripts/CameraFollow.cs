@@ -1,9 +1,9 @@
 using UnityEngine;
 using System.Collections;
 
-public class FlowerMove : MonoBehaviour {
+public class CameraFollow : MonoBehaviour {
 
-	public FlowerMove player;
+	public Flowermove player;
 
 	public bool isFollowing;
 
@@ -14,7 +14,7 @@ public class FlowerMove : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		player = FindObjectOfType<FlowerMove>();
+		player = FindObjectOfType<Flowermove>();
 
 		isFollowing = true;
 	}

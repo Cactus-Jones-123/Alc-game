@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FlowerMove : MonoBehaviour {
+public class Flowermove : MonoBehaviour {
 
     //player movement variables
     public int moveSpeed;
@@ -31,7 +31,7 @@ public class FlowerMove : MonoBehaviour {
     void Update () {
 
         //this code makes the character jump
-        if(Input.GetKeyDown (KeyCode.W)&& grounded){
+        if(Input.GetKeyDown (KeyCode.UpArrow)&& grounded){
             Jump();
         }
 
@@ -39,7 +39,7 @@ public class FlowerMove : MonoBehaviour {
         if(grounded)
             doubleJump = false;
 
-        if(Input.GetKeyDown (KeyCode.W)&& !doubleJump && !grounded){
+        if(Input.GetKeyDown (KeyCode.UpArrow)&& !doubleJump && !grounded){
             Jump();
             doubleJump = true;
         }
@@ -47,11 +47,11 @@ public class FlowerMove : MonoBehaviour {
         moveVelocity = 0f;
 
 	   // this code makes the character move from side to side usinng the ASD keys
-	    if(Input.GetKey (KeyCode.D)){
+	    if(Input.GetKey (KeyCode.RightArrow)){
 		   //GetComponent<Rigidbody2D>().velocity = new Vector2(moveSpeed, GetComponent<Rigidbody2D>().velocity.y);
            moveVelocity = moveSpeed;
         }
-        if(Input.GetKey (KeyCode.A)){
+        if(Input.GetKey (KeyCode.LeftArrow)){
 		   //GetComponent<Rigidbody2D>().velocity = new Vector2(-moveSpeed, GetComponent<Rigidbody2D>().velocity.y);
            moveVelocity = -moveSpeed;
         }
@@ -61,10 +61,10 @@ public class FlowerMove : MonoBehaviour {
 
         // Player flip
         if (GetComponent<Rigidbody2D>().velocity.x > 0)
-            transform.localScale = new Vector3(-0.2f,-0.2f,-0.05f);
+            transform.localScale = new Vector3(-4f,4f,4f);
 
         else if (GetComponent<Rigidbody2D>().velocity.x < 0)
-            transform.localScale = new Vector3(0.2f,-0.2f,-0.05f);
+            transform.localScale = new Vector3(4f,4f,4f);
 
 
     }
