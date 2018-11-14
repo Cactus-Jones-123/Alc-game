@@ -5,7 +5,9 @@ using UnityEngine;
 public class Projectile : MonoBehaviour {
 
 	public float Speed;
-	public Rigidbody2D CactusJones;
+
+	public float TimeOut;
+	public GameObject CactusJones;
 
 	public GameObject EnemyDeath;
 
@@ -15,8 +17,19 @@ public class Projectile : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+		CactusJones = GameObject.Find("CactusJones");
+		
+		EnemyDeath = Resources.Load("prefabs/Particle System") as GameObject;
+		
+		ProjectileParticle = Resources.Load("prefabs/Particle System (1)") as GameObject;
+		
 		if(CactusJones.transform.localScale.x < 0)
 			Speed = -Speed;
+
+
+	
+		//Destroys Projectile after x seconds
+		Destroy(gameObject,TimeOut);
 	}
 	
 	// Update is called once per frame
@@ -24,7 +37,8 @@ public class Projectile : MonoBehaviour {
 		GetComponent<Rigidbody2D>().velocity = new Vector2(Speed, GetComponent<Rigidbody2D>().velocity.y);
 	}
 
-	void OnTriggerEnter2D(Collider2D other){
+void OnTriggerEnter2D(Collider2D other){
+		//Destroys enemey on contact with projectile. Adds points. 
 		if(other.tag == "Enemy"){
 			Instantiate(EnemyDeath, other.transform.position, other.transform.rotation);
 			Destroy (other.gameObject);
@@ -32,7 +46,14 @@ public class Projectile : MonoBehaviour {
 		}
 		
 		
-		Instantiate(ProjectileParticle, transform.position, transform.rotation);
+		// Instantiate(ProjectileParticle, transform.position, transform.rotation);
 		Destroy (gameObject);
 	}
+
+		void OnCollisionEnter2D(Collision2D other)
+	{
+		Instantiate(ProjectileParticle, transform.position, transform.rotation);
+		Destroy (gameObject);
+		
+}
 }

@@ -3,7 +3,7 @@ using System.Collections;
 
 public class CameraFollow : MonoBehaviour {
 
-	public Flowermove player;
+	public CharacterMove player;
 
 	public bool isFollowing;
 
@@ -14,7 +14,7 @@ public class CameraFollow : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		player = FindObjectOfType<Flowermove>();
+		player = FindObjectOfType<CharacterMove>();
 
 		isFollowing = true;
 	}

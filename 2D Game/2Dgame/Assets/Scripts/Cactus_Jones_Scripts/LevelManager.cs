@@ -7,6 +7,8 @@ public class LevelManager : MonoBehaviour {
 	public GameObject CurrentCheckPoint;
 	public Rigidbody2D CactusJones;
 
+	public GameObject CactusJones2;
+
 	// Particles
 	public GameObject DeathParticle;
 	public GameObject RespawnParticle;
@@ -25,7 +27,8 @@ public class LevelManager : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		//CactusJones = FindObjectOfType<Rigidbody2D> ();
+		CactusJones = GameObject.Find("CactusJones").GetComponent<Rigidbody2D>();
+		CactusJones2 = GameObject.Find("CactusJones");
 	}
 	
 	public void RespawnPlayer(){
@@ -36,7 +39,8 @@ public class LevelManager : MonoBehaviour {
 		// Genterate Death Paricle
 		Instantiate (DeathParticle, CactusJones.transform.position, CactusJones.transform.rotation);
 		// Hide CactusJones
-		// CactusJones.enaable = false;
+		// CactusJones.enable = false;
+		CactusJones2.SetActive(false);
 		CactusJones.GetComponent<Renderer> ().enabled = false;
 		// Gravity Reset
 		GravityStore = CactusJones.GetComponent<Rigidbody2D>().gravityScale;
@@ -54,6 +58,7 @@ public class LevelManager : MonoBehaviour {
 		CactusJones.transform.position = CurrentCheckPoint.transform.position;
 		// Show CactusJones
 		// CactusJones.enabled = true;
+		CactusJones2.SetActive(true);
 		CactusJones.GetComponent<Renderer> ().enabled = true;
 		//Spawn CactusJones
 		Instantiate (RespawnParticle, CurrentCheckPoint.transform.position, CurrentCheckPoint.transform.rotation);
