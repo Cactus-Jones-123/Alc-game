@@ -90,9 +90,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Speed: 20
-  CactusJones: {fileID: 0}
-  EnemyDeath: {fileID: 0}
-  ProjectileParticle: {fileID: 0}
+  TimeOut: 3
+  CactusJones: {fileID: 1530117847471400, guid: a4adc5223ada84f5894a696abf83e061,
+    type: 2}
+  EnemyDeath: {fileID: 1799253141570134, guid: a4695814a1818433daab58f25b2b5cc2, type: 2}
+  ProjectileParticle: {fileID: 1156593851936026, guid: 79b147a23098348c7b5b03faff6e036e,
+    type: 2}
   PointsForKill: 50
 --- !u!212 &212666151344546672
 SpriteRenderer:
