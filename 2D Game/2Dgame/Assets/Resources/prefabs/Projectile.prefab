@@ -23,7 +23,7 @@ GameObject:
   - component: {fileID: 58909225556373254}
   - component: {fileID: 50138483897327772}
   - component: {fileID: 114159074956460650}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Projectile
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -91,7 +91,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Speed: 20
   TimeOut: 3
-  CactusJones: {fileID: 1530117847471400, guid: a4adc5223ada84f5894a696abf83e061,
+  Cactus_Jones: {fileID: 1530117847471400, guid: a4adc5223ada84f5894a696abf83e061,
     type: 2}
   EnemyDeath: {fileID: 1799253141570134, guid: a4695814a1818433daab58f25b2b5cc2, type: 2}
   ProjectileParticle: {fileID: 1156593851936026, guid: 79b147a23098348c7b5b03faff6e036e,
