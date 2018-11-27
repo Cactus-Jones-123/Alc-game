@@ -113,6 +113,11 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!50 &11230823 stripped
+Rigidbody2D:
+  m_PrefabParentObject: {fileID: 50211023150220370, guid: a4adc5223ada84f5894a696abf83e061,
+    type: 2}
+  m_PrefabInternal: {fileID: 448616196}
 --- !u!1 &37102130
 GameObject:
   m_ObjectHideFlags: 0
@@ -944,11 +949,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentCheckPoint: {fileID: 1934348917}
-  Cactus_Jones: {fileID: 0}
-  Cactus_Jones2: {fileID: 0}
-  DeathPS: {fileID: 0}
-  RespawnPS: {fileID: 0}
-  RespawnDelay: 5
+  Cactus_Jones: {fileID: 11230823}
+  Cactus_Jones2: {fileID: 1530117847471400, guid: a4adc5223ada84f5894a696abf83e061,
+    type: 2}
+  DeathPS: {fileID: 1799253141570134, guid: a4695814a1818433daab58f25b2b5cc2, type: 2}
+  RespawnPS: {fileID: 1156593851936026, guid: 79b147a23098348c7b5b03faff6e036e, type: 2}
+  RespawnDelay: 1
   PointPenaltyOnDeath: 10
 --- !u!4 &140452257
 Transform:
@@ -2301,7 +2307,8 @@ Prefab:
         type: 2}
       propertyPath: Projectile
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1706920850594968, guid: 5af9aea217cac4599b449a5c2174fbd4,
+        type: 2}
     - target: {fileID: 4008220303364040, guid: a4adc5223ada84f5894a696abf83e061, type: 2}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
@@ -8677,7 +8684,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1624359870}
   - component: {fileID: 1624359869}
-  - component: {fileID: 1624359868}
   - component: {fileID: 1624359871}
   m_Layer: 8
   m_Name: DeathBox
@@ -8686,17 +8692,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1624359868
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1624359867}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8eb5539c94d7a4117a0040732735cc4c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!61 &1624359869
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8746,7 +8741,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 64ef2e5ee1bdb4038affa89b87bf3b1a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  LevelManager: {fileID: 0}
+  LevelManager: {fileID: 140452256}
 --- !u!1 &1628404371
 GameObject:
   m_ObjectHideFlags: 0
