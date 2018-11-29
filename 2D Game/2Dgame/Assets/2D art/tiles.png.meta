@@ -6,6 +6,7 @@ TextureImporter:
     21300002: Wall
     21300004: Ceiling
     21300006: tiles_0
+    21300008: tiles_1
   externalObjects: {}
   serializedVersion: 5
   mipmaps:
@@ -154,13 +155,33 @@ TextureImporter:
         width: 12
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
       spriteID: 8b8f4bbc5e58b458a97bcaf3d0cf7650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 96
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b68b3671dd41471b8033cb9afd0e9f0
       vertices: []
       indices: 
       edges: []
