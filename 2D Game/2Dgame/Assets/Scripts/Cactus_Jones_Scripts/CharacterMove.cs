@@ -61,10 +61,10 @@ public class CharacterMove : MonoBehaviour {
 
         // Player flip
         if (GetComponent<Rigidbody2D>().velocity.x > 0)
-            transform.localScale = new Vector3(0.2f,0.2f,0.05f);
+            transform.localScale = new Vector3(-2f,2f,0f);
 
         else if (GetComponent<Rigidbody2D>().velocity.x < 0)
-            transform.localScale = new Vector3(-0.2f,0.2f,0.05f);
+            transform.localScale = new Vector3(2f,2f,0f);
 
 
     }
