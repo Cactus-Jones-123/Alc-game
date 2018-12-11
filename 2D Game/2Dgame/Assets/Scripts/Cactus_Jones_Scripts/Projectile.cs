@@ -23,7 +23,7 @@ public class Projectile : MonoBehaviour {
 
 		 ProjectileParticle = Resources.Load("prefabs/RespawnPS") as GameObject;
 
-		if(Cactus_Jones.transform.localScale.x < 0)
+		if(Cactus_Jones.transform.localScale.x > 0)
 			Speed = -Speed;
 
 			
