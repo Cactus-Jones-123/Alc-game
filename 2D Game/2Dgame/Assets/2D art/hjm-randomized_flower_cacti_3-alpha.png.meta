@@ -1,0 +1,4232 @@
+fileFormatVersion: 2
+guid: ab288f4954e17435bab17fe650ed5b55
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hjm-randomized_flower_cacti_3-alpha_0
+    21300002: hjm-randomized_flower_cacti_3-alpha_1
+    21300004: hjm-randomized_flower_cacti_3-alpha_2
+    21300006: hjm-randomized_flower_cacti_3-alpha_3
+    21300008: hjm-randomized_flower_cacti_3-alpha_4
+    21300010: hjm-randomized_flower_cacti_3-alpha_5
+    21300012: hjm-randomized_flower_cacti_3-alpha_6
+    21300014: hjm-randomized_flower_cacti_3-alpha_7
+    21300016: hjm-randomized_flower_cacti_3-alpha_8
+    21300018: hjm-randomized_flower_cacti_3-alpha_9
+    21300020: hjm-randomized_flower_cacti_3-alpha_10
+    21300022: hjm-randomized_flower_cacti_3-alpha_11
+    21300024: hjm-randomized_flower_cacti_3-alpha_12
+    21300026: hjm-randomized_flower_cacti_3-alpha_13
+    21300028: hjm-randomized_flower_cacti_3-alpha_14
+    21300030: hjm-randomized_flower_cacti_3-alpha_15
+    21300032: hjm-randomized_flower_cacti_3-alpha_16
+    21300034: hjm-randomized_flower_cacti_3-alpha_17
+    21300036: hjm-randomized_flower_cacti_3-alpha_18
+    21300038: hjm-randomized_flower_cacti_3-alpha_19
+    21300040: hjm-randomized_flower_cacti_3-alpha_20
+    21300042: hjm-randomized_flower_cacti_3-alpha_21
+    21300044: hjm-randomized_flower_cacti_3-alpha_22
+    21300046: hjm-randomized_flower_cacti_3-alpha_23
+    21300048: hjm-randomized_flower_cacti_3-alpha_24
+    21300050: hjm-randomized_flower_cacti_3-alpha_25
+    21300052: hjm-randomized_flower_cacti_3-alpha_26
+    21300054: hjm-randomized_flower_cacti_3-alpha_27
+    21300056: hjm-randomized_flower_cacti_3-alpha_28
+    21300058: hjm-randomized_flower_cacti_3-alpha_29
+    21300060: hjm-randomized_flower_cacti_3-alpha_30
+    21300062: hjm-randomized_flower_cacti_3-alpha_31
+    21300064: hjm-randomized_flower_cacti_3-alpha_32
+    21300066: hjm-randomized_flower_cacti_3-alpha_33
+    21300068: hjm-randomized_flower_cacti_3-alpha_34
+    21300070: hjm-randomized_flower_cacti_3-alpha_35
+    21300072: hjm-randomized_flower_cacti_3-alpha_36
+    21300074: hjm-randomized_flower_cacti_3-alpha_37
+    21300076: hjm-randomized_flower_cacti_3-alpha_38
+    21300078: hjm-randomized_flower_cacti_3-alpha_39
+    21300080: hjm-randomized_flower_cacti_3-alpha_40
+    21300082: hjm-randomized_flower_cacti_3-alpha_41
+    21300084: hjm-randomized_flower_cacti_3-alpha_42
+    21300086: hjm-randomized_flower_cacti_3-alpha_43
+    21300088: hjm-randomized_flower_cacti_3-alpha_44
+    21300090: hjm-randomized_flower_cacti_3-alpha_45
+    21300092: hjm-randomized_flower_cacti_3-alpha_46
+    21300094: hjm-randomized_flower_cacti_3-alpha_47
+    21300096: hjm-randomized_flower_cacti_3-alpha_48
+    21300098: hjm-randomized_flower_cacti_3-alpha_49
+    21300100: hjm-randomized_flower_cacti_3-alpha_50
+    21300102: hjm-randomized_flower_cacti_3-alpha_51
+    21300104: hjm-randomized_flower_cacti_3-alpha_52
+    21300106: hjm-randomized_flower_cacti_3-alpha_53
+    21300108: hjm-randomized_flower_cacti_3-alpha_54
+    21300110: hjm-randomized_flower_cacti_3-alpha_55
+    21300112: hjm-randomized_flower_cacti_3-alpha_56
+    21300114: hjm-randomized_flower_cacti_3-alpha_57
+    21300116: hjm-randomized_flower_cacti_3-alpha_58
+    21300118: hjm-randomized_flower_cacti_3-alpha_59
+    21300120: hjm-randomized_flower_cacti_3-alpha_60
+    21300122: hjm-randomized_flower_cacti_3-alpha_61
+    21300124: hjm-randomized_flower_cacti_3-alpha_62
+    21300126: hjm-randomized_flower_cacti_3-alpha_63
+    21300128: hjm-randomized_flower_cacti_3-alpha_64
+    21300130: hjm-randomized_flower_cacti_3-alpha_65
+    21300132: hjm-randomized_flower_cacti_3-alpha_66
+    21300134: hjm-randomized_flower_cacti_3-alpha_67
+    21300136: hjm-randomized_flower_cacti_3-alpha_68
+    21300138: hjm-randomized_flower_cacti_3-alpha_69
+    21300140: hjm-randomized_flower_cacti_3-alpha_70
+    21300142: hjm-randomized_flower_cacti_3-alpha_71
+    21300144: hjm-randomized_flower_cacti_3-alpha_72
+    21300146: hjm-randomized_flower_cacti_3-alpha_73
+    21300148: hjm-randomized_flower_cacti_3-alpha_74
+    21300150: hjm-randomized_flower_cacti_3-alpha_75
+    21300152: hjm-randomized_flower_cacti_3-alpha_76
+    21300154: hjm-randomized_flower_cacti_3-alpha_77
+    21300156: hjm-randomized_flower_cacti_3-alpha_78
+    21300158: hjm-randomized_flower_cacti_3-alpha_79
+    21300160: hjm-randomized_flower_cacti_3-alpha_80
+    21300162: hjm-randomized_flower_cacti_3-alpha_81
+    21300164: hjm-randomized_flower_cacti_3-alpha_82
+    21300166: hjm-randomized_flower_cacti_3-alpha_83
+    21300168: hjm-randomized_flower_cacti_3-alpha_84
+    21300170: hjm-randomized_flower_cacti_3-alpha_85
+    21300172: hjm-randomized_flower_cacti_3-alpha_86
+    21300174: hjm-randomized_flower_cacti_3-alpha_87
+    21300176: hjm-randomized_flower_cacti_3-alpha_88
+    21300178: hjm-randomized_flower_cacti_3-alpha_89
+    21300180: hjm-randomized_flower_cacti_3-alpha_90
+    21300182: hjm-randomized_flower_cacti_3-alpha_91
+    21300184: hjm-randomized_flower_cacti_3-alpha_92
+    21300186: hjm-randomized_flower_cacti_3-alpha_93
+    21300188: hjm-randomized_flower_cacti_3-alpha_94
+    21300190: hjm-randomized_flower_cacti_3-alpha_95
+    21300192: hjm-randomized_flower_cacti_3-alpha_96
+    21300194: hjm-randomized_flower_cacti_3-alpha_97
+    21300196: hjm-randomized_flower_cacti_3-alpha_98
+    21300198: hjm-randomized_flower_cacti_3-alpha_99
+    21300200: hjm-randomized_flower_cacti_3-alpha_100
+    21300202: hjm-randomized_flower_cacti_3-alpha_101
+    21300204: hjm-randomized_flower_cacti_3-alpha_102
+    21300206: hjm-randomized_flower_cacti_3-alpha_103
+    21300208: hjm-randomized_flower_cacti_3-alpha_104
+    21300210: hjm-randomized_flower_cacti_3-alpha_105
+    21300212: hjm-randomized_flower_cacti_3-alpha_106
+    21300214: hjm-randomized_flower_cacti_3-alpha_107
+    21300216: hjm-randomized_flower_cacti_3-alpha_108
+    21300218: hjm-randomized_flower_cacti_3-alpha_109
+    21300220: hjm-randomized_flower_cacti_3-alpha_110
+    21300222: hjm-randomized_flower_cacti_3-alpha_111
+    21300224: hjm-randomized_flower_cacti_3-alpha_112
+    21300226: hjm-randomized_flower_cacti_3-alpha_113
+    21300228: hjm-randomized_flower_cacti_3-alpha_114
+    21300230: hjm-randomized_flower_cacti_3-alpha_115
+    21300232: hjm-randomized_flower_cacti_3-alpha_116
+    21300234: hjm-randomized_flower_cacti_3-alpha_117
+    21300236: hjm-randomized_flower_cacti_3-alpha_118
+    21300238: hjm-randomized_flower_cacti_3-alpha_119
+    21300240: hjm-randomized_flower_cacti_3-alpha_120
+    21300242: hjm-randomized_flower_cacti_3-alpha_121
+    21300244: hjm-randomized_flower_cacti_3-alpha_122
+    21300246: hjm-randomized_flower_cacti_3-alpha_123
+    21300248: hjm-randomized_flower_cacti_3-alpha_124
+    21300250: hjm-randomized_flower_cacti_3-alpha_125
+    21300252: hjm-randomized_flower_cacti_3-alpha_126
+    21300254: hjm-randomized_flower_cacti_3-alpha_127
+    21300256: hjm-randomized_flower_cacti_3-alpha_128
+    21300258: hjm-randomized_flower_cacti_3-alpha_129
+    21300260: hjm-randomized_flower_cacti_3-alpha_130
+    21300262: hjm-randomized_flower_cacti_3-alpha_131
+    21300264: hjm-randomized_flower_cacti_3-alpha_132
+    21300266: hjm-randomized_flower_cacti_3-alpha_133
+    21300268: hjm-randomized_flower_cacti_3-alpha_134
+    21300270: hjm-randomized_flower_cacti_3-alpha_135
+    21300272: hjm-randomized_flower_cacti_3-alpha_136
+    21300274: hjm-randomized_flower_cacti_3-alpha_137
+    21300276: hjm-randomized_flower_cacti_3-alpha_138
+    21300278: hjm-randomized_flower_cacti_3-alpha_139
+    21300280: hjm-randomized_flower_cacti_3-alpha_140
+    21300282: hjm-randomized_flower_cacti_3-alpha_141
+    21300284: hjm-randomized_flower_cacti_3-alpha_142
+    21300286: hjm-randomized_flower_cacti_3-alpha_143
+    21300288: hjm-randomized_flower_cacti_3-alpha_144
+    21300290: hjm-randomized_flower_cacti_3-alpha_145
+    21300292: hjm-randomized_flower_cacti_3-alpha_146
+    21300294: hjm-randomized_flower_cacti_3-alpha_147
+    21300296: hjm-randomized_flower_cacti_3-alpha_148
+    21300298: hjm-randomized_flower_cacti_3-alpha_149
+    21300300: hjm-randomized_flower_cacti_3-alpha_150
+    21300302: hjm-randomized_flower_cacti_3-alpha_151
+    21300304: hjm-randomized_flower_cacti_3-alpha_152
+    21300306: hjm-randomized_flower_cacti_3-alpha_153
+    21300308: hjm-randomized_flower_cacti_3-alpha_154
+    21300310: hjm-randomized_flower_cacti_3-alpha_155
+    21300312: hjm-randomized_flower_cacti_3-alpha_156
+    21300314: hjm-randomized_flower_cacti_3-alpha_157
+    21300316: hjm-randomized_flower_cacti_3-alpha_158
+    21300318: hjm-randomized_flower_cacti_3-alpha_159
+    21300320: hjm-randomized_flower_cacti_3-alpha_160
+    21300322: hjm-randomized_flower_cacti_3-alpha_161
+    21300324: hjm-randomized_flower_cacti_3-alpha_162
+    21300326: hjm-randomized_flower_cacti_3-alpha_163
+    21300328: hjm-randomized_flower_cacti_3-alpha_164
+    21300330: hjm-randomized_flower_cacti_3-alpha_165
+    21300332: hjm-randomized_flower_cacti_3-alpha_166
+    21300334: hjm-randomized_flower_cacti_3-alpha_167
+    21300336: hjm-randomized_flower_cacti_3-alpha_168
+    21300338: hjm-randomized_flower_cacti_3-alpha_169
+    21300340: hjm-randomized_flower_cacti_3-alpha_170
+    21300342: hjm-randomized_flower_cacti_3-alpha_171
+    21300344: hjm-randomized_flower_cacti_3-alpha_172
+    21300346: hjm-randomized_flower_cacti_3-alpha_173
+    21300348: hjm-randomized_flower_cacti_3-alpha_174
+    21300350: hjm-randomized_flower_cacti_3-alpha_175
+    21300352: hjm-randomized_flower_cacti_3-alpha_176
+    21300354: hjm-randomized_flower_cacti_3-alpha_177
+    21300356: hjm-randomized_flower_cacti_3-alpha_178
+    21300358: hjm-randomized_flower_cacti_3-alpha_179
+    21300360: hjm-randomized_flower_cacti_3-alpha_180
+    21300362: hjm-randomized_flower_cacti_3-alpha_181
+    21300364: hjm-randomized_flower_cacti_3-alpha_182
+    21300366: hjm-randomized_flower_cacti_3-alpha_183
+    21300368: hjm-randomized_flower_cacti_3-alpha_184
+    21300370: hjm-randomized_flower_cacti_3-alpha_185
+    21300372: hjm-randomized_flower_cacti_3-alpha_186
+    21300374: hjm-randomized_flower_cacti_3-alpha_187
+    21300376: hjm-randomized_flower_cacti_3-alpha_188
+    21300378: hjm-randomized_flower_cacti_3-alpha_189
+    21300380: hjm-randomized_flower_cacti_3-alpha_190
+    21300382: hjm-randomized_flower_cacti_3-alpha_191
+    21300384: hjm-randomized_flower_cacti_3-alpha_192
+    21300386: hjm-randomized_flower_cacti_3-alpha_193
+    21300388: hjm-randomized_flower_cacti_3-alpha_194
+    21300390: hjm-randomized_flower_cacti_3-alpha_195
+    21300392: hjm-randomized_flower_cacti_3-alpha_196
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_0
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1997
+        width: 59
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076a3572dba6e4dec9573b8741cdd412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_1
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 2067
+        width: 52
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbf59acb3ff343f1b940e9c7b15995f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_2
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 1993
+        width: 78
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5f6ea4a7b5340b59df45cf92613b87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_3
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1849
+        width: 63
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bba57b8be5a24f4ab13f2012c35308a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_4
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1924
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7f626b31ad44108ad975334abd6e4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_5
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1849
+        width: 62
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3230079ce2e8145528415bf2f61f1a35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_6
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 1917
+        width: 60
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79947244ae764e1f910a9c5b63e87e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_7
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 1917
+        width: 68
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be56eeb17f41e40e489411eb9cf7d58f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_8
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 1849
+        width: 66
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ed68d30be31452db8025b128c89b21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_9
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1890
+        width: 373
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6176f9755263e4804a5692d817b4c082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_10
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 1849
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c86a607f5334194898c6428a82bf7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_11
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1776
+        width: 57
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b1b4552030e4e2bbfd9a9cb0929560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_12
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1699
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe91719d2b2b54be3bf1a172056f407e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_13
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 1768
+        width: 70
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7287fcbdb124b4b91a304ed5c116f8de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_14
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1784
+        width: 52
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b2c272b445943d3b66673cd0d4430d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_15
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 1698
+        width: 66
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f649796002f4db39533c1caa9da0db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_16
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 1775
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebb63508aea8462dba2dd13067b9af1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_17
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1776
+        width: 55
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438de7dbbc78b4808b64d93f6b111d5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_18
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1632
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784740a1fbfea49c2b1716a36f2b5827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_19
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1698
+        width: 63
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799af6f42144942d7bb85010ecb4e468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_20
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1632
+        width: 62
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ad6c5a9fcf04580ad2867cbbc6dcbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_21
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1633
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a542715a124614bdcbccd4ec2828c95e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_22
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 1701
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190d94de23cee4d1b80c742997387d4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_23
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 1634
+        width: 68
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625e8a127abd04a82970576985b0853b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_24
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 1625
+        width: 62
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ccd28d2ee8c4a12abd8af2d8f14e17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_25
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 1702
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffb39d68ba68477a8e3871b0b972bb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_26
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 1620
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec211720a149b4be4af1c08d8fa5de7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_27
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 1698
+        width: 61
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e30bcb4c96c4d3abb713b20aacc784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_28
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 1626
+        width: 61
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333b8d21df85f4d53bb40c3f79d07b40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_29
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1552
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6036464a61a492498acd386346d4d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_30
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1554
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6680a58264ee4435c9c9c4a4cfaedca4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_31
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1564
+        width: 55
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f33c201b43a4579a3c629b65ecde54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_32
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 1478
+        width: 67
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc62fb94e3204c32a7b4600aacabebd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_33
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1556
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e930647bc476f45bc828c68b7f05bcfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_34
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 1480
+        width: 68
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8346821547f8e4853b404d64d52237d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_35
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 1552
+        width: 64
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71671097e87af4705aac1c4d11ae7b37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_36
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 1550
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba20217f29384097a0692539c5dcced
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_37
+      rect:
+        serializedVersion: 2
+        x: 2554
+        y: 1480
+        width: 68
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b002bef6eea184a3b8a0755606de154d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_38
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 1554
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02b21f65f79749fca7ada832336a708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_39
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 1478
+        width: 76
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c260c762e0845bb823cc2a73466d3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_40
+      rect:
+        serializedVersion: 2
+        x: 3001
+        y: 1555
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d104cf4668574f7eac978329dbfa02e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_41
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1404
+        width: 67
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3c7b8db126c4ddf8cb167fadace953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_42
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1486
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ee5277d9f1446039eece0b76e8776d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_43
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1480
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe35728092b734412b21cade3879ae81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_44
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1404
+        width: 65
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e4d4545851943c29775757f864cfc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_45
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1480
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d29e7ac005e4b62963f58bba2b425f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_46
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1408
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87146c5abf53f430e9d0b262f04752b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_47
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 1407
+        width: 57
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5884cd42d4844afc9c29bfd4c198bf0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_48
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 1478
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faad6900df54446cfbc944a035cc0089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_49
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 1409
+        width: 67
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cfa203adda746ef9631c4f45452758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_50
+      rect:
+        serializedVersion: 2
+        x: 3144
+        y: 1480
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d678b3f80eb48589c58a47d2fcfad1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_51
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1334
+        width: 65
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eafd52974aac4350bdb295c3427613d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_52
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1344
+        width: 47
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fa8ae6c5df04e5fa9d3d21761d9f95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_53
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1402
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2422d7dead0054026b2b17030a885666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_54
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1408
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741aa704c83ee41b78ff25e1e39c7d57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_55
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 1333
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f8bfafc8b274931b1ce782c0b8d84f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_56
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 1332
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ab91c68459c4e12a24afa9952185a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_57
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1335
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be7928a5f0fc4b90b3a956f91bae190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_58
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 1407
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561aed44298fc4bd7a547dcefb492c8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_59
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 1407
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2718af2e8f3a4d178ae8a766864e6e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_60
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 1327
+        width: 69
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7f0567b172f4b99856e25fe1629628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_61
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 1407
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7e101987f8646c58e59dd9612ce5d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_62
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1263
+        width: 55
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73867136210ab41cd92da069c0c46743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_63
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1257
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d33c402b8fd4248b49e8c5206b80a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_64
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1332
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c93152a037df4237913897800c17890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_65
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1259
+        width: 58
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceaa766b2e2154079b10ef5f871f5acf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_66
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1331
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c112e493372b4410a8464e0f63b9cb72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_67
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 1334
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d943dd34d04453da15d7fb7045995e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_68
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1262
+        width: 71
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca0f17ba793344fc9c0a89f5065a7a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_69
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 1331
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd7639853c034d7a8f37d1d8dda5abc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_70
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1265
+        width: 55
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4619a54f7254c409c80bdbf62bcf0769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_71
+      rect:
+        serializedVersion: 2
+        x: 3439
+        y: 1333
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38774a67b0363462a969d392a47a116f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_72
+      rect:
+        serializedVersion: 2
+        x: 3583
+        y: 1259
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebbca87cec6b4e4da44f18e667ff07c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_73
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1185
+        width: 59
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16976a8356694b26b320c71f300c24a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_74
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1195
+        width: 52
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebddd60cca9074b5a8e39799f2cc97a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_75
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1187
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87e64930349f41929e11712de3ac05b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_76
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1261
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361f90ba75f4c421480c06b8b0fe13b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_77
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1192
+        width: 59
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d13525d1e9a4bd0a2cae7776328e52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_78
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1255
+        width: 68
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25122556c6e4a41acb1d2dc1633b2c51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_79
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 1183
+        width: 68
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cee239aa89b34b61bffa1feba89bd5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_80
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 1191
+        width: 66
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69491deba9a894a8e8a416be5b13ca17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_81
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 1259
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382e1557477124060b16c21f67efd5a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_82
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 1193
+        width: 67
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607b63b087f2a4a5cb22132ea0ebbc00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_83
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 1255
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421e347b09f084d04be967d7fb58daa3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_84
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1189
+        width: 54
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35246777d97a04052ae65b0fd77ea742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_85
+      rect:
+        serializedVersion: 2
+        x: 2704
+        y: 1259
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273e43b85d51c4245946cbb51c900193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_86
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 1184
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbc02ecb033c480ab89cda7e48bfddd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_87
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 1190
+        width: 56
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9261b8aece54c86af21ff7f6cd73ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_88
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 1263
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f810486a79b4676ae016b9ba43a6b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_89
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 1191
+        width: 55
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4bab2ee72a34b2a93ab4f255171227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_90
+      rect:
+        serializedVersion: 2
+        x: 3730
+        y: 1192
+        width: 62
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41693fae649a34288be08c8d856435d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_91
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1112
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6de5e28d2234a11b9c7a31ddc6ab29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_92
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1118
+        width: 57
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45139604972f4487fb68bbe8de49b6ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_93
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1109
+        width: 66
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb29c609e121b440c90f47c9ecddcd31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_94
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1114
+        width: 58
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebfaf74055ec4431964910bc3aebb02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_95
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1187
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42467274f63849bbb5f552c9e161b7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_96
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1118
+        width: 61
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8728673b83449e3928078290f3f774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_97
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 1114
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f81541c5c044a62b9609bb127aea9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_98
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 1109
+        width: 68
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa9a48e8098d40a593a549cad350a9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_99
+      rect:
+        serializedVersion: 2
+        x: 2698
+        y: 1107
+        width: 71
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1388ef8c34ef644469d171582e80207a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_100
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 1122
+        width: 63
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ae5fba4adaf43d697acb1131278aa8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_101
+      rect:
+        serializedVersion: 2
+        x: 3286
+        y: 1109
+        width: 68
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e188bd0b5b3634b9489439a8fd469aac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_102
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 1117
+        width: 78
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43d928956aad49f4890af1b881ef772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_103
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1044
+        width: 68
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14402ad40f20c40469049923a30b8bb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_104
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1042
+        width: 60
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d0aaf211ea94a499d4322716d57965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_105
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1111
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f169bb5e3484174a748275ab5d1eb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_106
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1040
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302394084115a46659448b12ec177da3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_107
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1048
+        width: 53
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a75a6b62e5204466b62d4fb69b25e9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_108
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1109
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1b1e113104840dc83709b9fb5633e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_109
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 1044
+        width: 62
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc8d790bb5f34e2b91893099af5662c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_110
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 1044
+        width: 58
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1c92cb856a54377884b7ec1a9fcbab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_111
+      rect:
+        serializedVersion: 2
+        x: 2551
+        y: 1041
+        width: 71
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969af20f93fd54d5eb1f1b708c5ead75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_112
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 1042
+        width: 58
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0430d6ba6c0d347d4a89b39ddf22e6e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_113
+      rect:
+        serializedVersion: 2
+        x: 3439
+        y: 1044
+        width: 60
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1597d6ebc10445aa6ef7da3c79b0bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_114
+      rect:
+        serializedVersion: 2
+        x: 3587
+        y: 1113
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07eda317f7e334abb862b31c56b207d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_115
+      rect:
+        serializedVersion: 2
+        x: 3726
+        y: 1036
+        width: 72
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d167851adee64228b3f7376d306aa96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_116
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1044
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f60b41203b7f4638ac40d1b57e49689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_117
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 972
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ba66ea4927a43c0953cc7e92da1f16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_118
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 968
+        width: 57
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c76c63319ebd41f1ba7c2d8c723eb23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_119
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1040
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1f6f095d6a34980ae46449d4fa835d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_120
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 966
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da1c9bfc53f242b799cb7470eacf84a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_121
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 1036
+        width: 65
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723760a15ddd143c4ace3590f203c254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_122
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 969
+        width: 58
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235e31cf364c240f398e1fc74730735a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_123
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 972
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e5dc1cddd4846ed9c9be51196baf66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_124
+      rect:
+        serializedVersion: 2
+        x: 3583
+        y: 974
+        width: 61
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c88e1b8c7cdc462789eb1938b98998a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_125
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 970
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee4d32519ea74669a1607d15e6e1246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_126
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 892
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04eab7a429cb444b1bd8a3754dbf71be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_127
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 898
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec4ed78fb8bc4ae58480e8576015386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_128
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 970
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a243db23d1d394f859be0d7281d4b235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_129
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 894
+        width: 62
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdc5f7c0ea37400eab3b4c79440b607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_130
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 970
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cce2134ec07346efbc68efacdaf468e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_131
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 896
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8ffe371efc746b6b804a73f2a458dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_132
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 892
+        width: 64
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9a51edc715648c9ae6b4c56a996985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_133
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 965
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae05e3d346b804159bd576d446e9b8b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_134
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 894
+        width: 68
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862c583dd486c49afa6abe264bd7fbaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_135
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 965
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f1db1f2b9c0491e8d2037b9ac6970c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_136
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 894
+        width: 56
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760c4f5302a06465883bd93a59cdae1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_137
+      rect:
+        serializedVersion: 2
+        x: 2704
+        y: 966
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b747d541cad478cb773c55882ad1b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_138
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 898
+        width: 63
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6e6a021152e4fe68b1cc297f0bd377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_139
+      rect:
+        serializedVersion: 2
+        x: 3144
+        y: 894
+        width: 62
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf1eef7f2a1146f3ae9a44c2651b842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_140
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 894
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be290cd7bbea47fc8bf177464c5d22b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_141
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 823
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2daa5aa3ddea94a388e9cf947b185c35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_142
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 822
+        width: 62
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d0572c96a8048e6967f5d35601400d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_143
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 814
+        width: 71
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d1437d1238d45dba9974bbd7acb87a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_144
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 819
+        width: 63
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7018acf602c48fc9dda1f9040786a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_145
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 822
+        width: 61
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548e6b0ca41b8406484f9411302535f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_146
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 822
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d9e944416c64e6f9c4d9c5c95ca75b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_147
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 823
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba460ae9cbc04222abaf240d446f9fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_148
+      rect:
+        serializedVersion: 2
+        x: 2706
+        y: 821
+        width: 59
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cfec48338464e6096fb95dfd3ac4c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_149
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 827
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd57d496ce4dd4983bc44519e26d8017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_150
+      rect:
+        serializedVersion: 2
+        x: 3439
+        y: 896
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8250e7118cee4911b002a53c1d842bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_151
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 743
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986c766e9d4c44855a2a8911bde9e16e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_152
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 744
+        width: 75
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffc645e71553488d9d34761fcaa5ee3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_153
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 751
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ae2daaf186e463e94c9f3db813c405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_154
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 755
+        width: 57
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211be11a68e994c31a512ff9b4a57742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_155
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 757
+        width: 70
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7606d7e2191cf4c3a9b5602bb187978f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_156
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 753
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d32aa684df64f9abcf1bfba8249b89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_157
+      rect:
+        serializedVersion: 2
+        x: 3139
+        y: 755
+        width: 72
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39e73fd1a755455aa205fa9854fa077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_158
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 818
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94259d8768e4d4856ab68d7bc9ebcf02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_159
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 673
+        width: 64
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7fa3217793247bca37d58d5e5965b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_160
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 673
+        width: 61
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5d37d559bda4b8cbffc1166266d5f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_161
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 675
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f029b38c6a44e1a8a23ba9fbcdb421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_162
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 675
+        width: 67
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b631ceff9d70424595af4cfd6dabcdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_163
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 745
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b59c6bbfd1444ae8615d31954b2055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_164
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 679
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88b1d7d701474f2bb81d05017abba00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_165
+      rect:
+        serializedVersion: 2
+        x: 2706
+        y: 684
+        width: 55
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23564cad19894529984d104c21d86cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_166
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 745
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8c8f4eaa4ef4d7b86c3096be503940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_167
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 609
+        width: 61
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf12af4a30d4b417386558d4b3acf219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_168
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 599
+        width: 61
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9c9189326494a51aeebacdaa1c0cc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_169
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 679
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d144529093c1c4eb4b9bae0fdf2d0bb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_170
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 607
+        width: 52
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1d391e46e78436780aeb316e3bb56f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_171
+      rect:
+        serializedVersion: 2
+        x: 2554
+        y: 601
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f99cf2762b5a469a83af930c334d54d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_172
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 673
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5394a3bc24be4f7fb21a2fa47a94c51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_173
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 605
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342ad776d645149a9bba93ac86a3fd95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_174
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 534
+        width: 58
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d4bb0a7fee84e2699a1fc850f60352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_175
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 607
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6082938ce264a8f9812000fec27933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_176
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 532
+        width: 55
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e414e89ca75d9484da3bda5a0165aa85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_177
+      rect:
+        serializedVersion: 2
+        x: 2704
+        y: 531
+        width: 59
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d8e5bd8a6ff4b86acaf51b0319089d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_178
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 607
+        width: 49
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d77a3405c7647ca9dd90af59707687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_179
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 460
+        width: 51
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8de4722006794868b7d337adffc0157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_180
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 526
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7a601a0f58748689be2d183aab46e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_181
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 462
+        width: 68
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e94a139f866d4e0cbb80af4b73e78c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_182
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 531
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291e69e1d67704897ab7e7121a45567f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_183
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 523
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80c72e040ca74a17bf94d6315609d3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_184
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 452
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb5dd64043b147b98590eba97781f66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_185
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 458
+        width: 59
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a8ace87b3ba40b68fade15417c3e5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_186
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 381
+        width: 59
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c3467e7e467428cb100a7d8a599fee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_187
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 388
+        width: 63
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4adeee35fea294822bb23a4935378fc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_188
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 456
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e122c37c6e740a292f5a958815acba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_189
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 379
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3a36d681bf244f2be39755738f7bea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_190
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 316
+        width: 66
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91148d0c77dc249e58837d8c676b25ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_191
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 314
+        width: 58
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262ea8b24832047cba344b4d88966a41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_192
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 382
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b38fb910d6fd408782f604bc55c063e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_193
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 308
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631444fda4d6c4d2ea165fe1e05d2d96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_194
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 236
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e93b9a90bbc441f9186db71af708b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_195
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 233
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3560c2b8cc54fdf9cf32e20fda023e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hjm-randomized_flower_cacti_3-alpha_196
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 165
+        width: 62
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0262e4645b0704977bad31ebe07598e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f7ec0f0c2f864493f950dc19387e6a4d
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

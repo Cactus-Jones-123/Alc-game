@@ -22,8 +22,8 @@ public class CharacterMove : MonoBehaviour {
 
     // Use this for initialization
     void Start () {
-        animator.SetBool("isWalking",false);
-        animator.SetBool("isJumping",false);
+        animator.SetBool("IsWalking",false);
+        animator.SetBool("IsJumping",false);
 
     }
     
@@ -43,7 +43,7 @@ public class CharacterMove : MonoBehaviour {
         // Double jump code
         if(grounded){
             doubleJump = false;
-            animator.SetBool("isJumping",false);
+            animator.SetBool("IsJumping",false);
         }
 
 
@@ -59,29 +59,29 @@ public class CharacterMove : MonoBehaviour {
 
 	   // this code makes the character move from side to side usinng the ASD keys
 	    if(Input.GetKey (KeyCode.D)){
-		   //GetComponent<Rigidbody2D>().velocity = new Vector2(moveSpeed, GetComponent<Rigidbody2D>().velocity.y);
+		   GetComponent<Rigidbody2D>().velocity = new Vector2(moveSpeed, GetComponent<Rigidbody2D>().velocity.y);
            moveVelocity = moveSpeed;
-           animator.SetBool("isWalking",true);
+           animator.SetBool("IsWalking",true);
         }
-        else if(Input.GetKey (KeyCode.D)){
-            animator.SetBool("isWalking",false);
+        else if(Input.GetKeyUp (KeyCode.D)){
+            animator.SetBool("IsWalking",false);
         }
         if(Input.GetKey (KeyCode.A)){
-		   //GetComponent<Rigidbody2D>().velocity = new Vector2(-moveSpeed, GetComponent<Rigidbody2D>().velocity.y);
+		   GetComponent<Rigidbody2D>().velocity = new Vector2(-moveSpeed, GetComponent<Rigidbody2D>().velocity.y);
            moveVelocity = -moveSpeed;
-           animator.SetBool("isWalking",true);
+           animator.SetBool("IsWalking",true);
         }
-        else if(Input.GetKey (KeyCode.A)){
-            animator.SetBool("isWalking",false);
+        else if(Input.GetKeyUp (KeyCode.A)){
+            animator.SetBool("IsWalking",false);
 
         GetComponent<Rigidbody2D>().velocity = new Vector2(moveVelocity, GetComponent<Rigidbody2D>().velocity.y);
 
         // Player flip
         if (GetComponent<Rigidbody2D>().velocity.x > 0)
-            transform.localScale = new Vector3(-2f,2f,0f);
+            transform.localScale = new Vector3(2f,2f,1f);
 
         else if (GetComponent<Rigidbody2D>().velocity.x < 0)
-            transform.localScale = new Vector3(2f,2f,0f);
+            transform.localScale = new Vector3(-2f,2f,1f);
 
 
     }
@@ -90,7 +90,7 @@ public class CharacterMove : MonoBehaviour {
 }
     public void Jump(){
             GetComponent<Rigidbody2D>().velocity = new Vector2(GetComponent<Rigidbody2D>().velocity.x, jumpHeight);
-            animator.SetBool("isJumping",true);
+            animator.SetBool("IsJumping",true);
     }
 }
 
