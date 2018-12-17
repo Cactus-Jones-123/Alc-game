@@ -37,6 +37,7 @@ public class CharacterMove : MonoBehaviour {
         //this code makes the character jump
         if(Input.GetKeyDown (KeyCode.W)&& grounded){
             Jump();
+            animator.SetBool("IsJumping",true);
         }
 
 
@@ -53,6 +54,7 @@ public class CharacterMove : MonoBehaviour {
         if(Input.GetKeyDown (KeyCode.W)&& !doubleJump && !grounded){
             Jump();
             doubleJump = true;
+            animator.SetBool("IsJumping",true);
         }
         //Non-Slide Player
         moveVelocity = 0f;
