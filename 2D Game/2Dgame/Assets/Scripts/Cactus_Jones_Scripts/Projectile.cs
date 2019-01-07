@@ -1,5 +1,4 @@
-﻿
-using UnityEngine;
+﻿using UnityEngine;
 using System.Collections;
 
 public class Projectile : MonoBehaviour {
@@ -17,13 +16,13 @@ public class Projectile : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		 Cactus_Jones = GameObject.Find("Cactus Jones"); 
+		 Cactus_Jones = GameObject.Find("prefabs/Cactus Jones"); 
 
 		 EnemyDeath = Resources.Load("prefabs/DeathPS") as GameObject;
 
 		 ProjectileParticle = Resources.Load("prefabs/RespawnPS") as GameObject;
 
-		if(Cactus_Jones.transform.localScale.x > 0)
+		if(Cactus_Jones.transform.localScale.x < 0)
 			Speed = -Speed;
 
 			

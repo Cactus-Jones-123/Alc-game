@@ -7292,14 +7292,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e10d61b389735453b9403ee72c7fbb75, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 8
-  jumpHeight: 10
+  MoveSpeed: 10
+  JumpHeight: 8
   groundCheck: {fileID: 602496343}
   groundCheckRadius: 0.5
   whatIsGround:
     serializedVersion: 2
     m_Bits: 256
-  animator: {fileID: 1236012049}
 --- !u!61 &1236012046
 BoxCollider2D:
   m_ObjectHideFlags: 0
