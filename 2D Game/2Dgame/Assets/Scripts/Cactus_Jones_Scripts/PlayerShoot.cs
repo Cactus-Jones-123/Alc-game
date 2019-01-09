@@ -1,6 +1,5 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
+using System.Collections;
 
 public class PlayerShoot : MonoBehaviour {
 	public Transform FirePoint;
@@ -10,7 +9,6 @@ public class PlayerShoot : MonoBehaviour {
 		// Load Projectile from Resources/Prefabs Folder
 		Projectile = Resources.Load("prefabs/Projectile") as GameObject;
 	}
-	
 	// Update is called once per frame
 	void Update () {
 		if(Input.GetKeyDown(KeyCode.Space))

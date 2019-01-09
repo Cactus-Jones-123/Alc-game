@@ -1,6 +1,5 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
+using System.Collections;
 
 public class PlayerController : MonoBehaviour {
 
@@ -47,7 +46,7 @@ public class PlayerController : MonoBehaviour {
 		}
 			
 
-		if(Input.GetKeyDown (KeyCode.W)&& !doubleJump && !grounded){
+		if(Input.GetKeyDown (KeyCode.Space)&& !doubleJump && !grounded){
 			Jump();
 			doubleJump = true;
 		}
@@ -80,10 +79,10 @@ public class PlayerController : MonoBehaviour {
 
 		//Player flip
 		if (GetComponent<Rigidbody2D>().velocity.x > 0)
-			transform.localScale = new Vector3(2f,2f,1f);
+			transform.localScale = new Vector3(1f,1f,1f);
 
 		else if (GetComponent<Rigidbody2D>().velocity.x < 0)
-			transform.localScale = new Vector3(-2f,2f,1f);
+			transform.localScale = new Vector3(-1f,1f,1f);
 
 	}
 

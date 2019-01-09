@@ -4,13 +4,13 @@ using System.Collections;
 public class LevelManager : MonoBehaviour {
 
 	public GameObject CurrentCheckPoint;
-	public Rigidbody2D Cactus_Jones; 
+	public Rigidbody2D CactusJones; 
 
-	public GameObject Cactus_Jones2;
+	public GameObject CactusJones2;
 
 	// Particles
-	public GameObject DeathPS;
-	public GameObject RespawnPS;
+	public GameObject DeathParticle;
+	public GameObject RespawnParticle;
 
 	//Respawn Delay
 	public float RespawnDelay;
@@ -25,8 +25,8 @@ public class LevelManager : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		Cactus_Jones = GameObject.Find("Cactus Jones").GetComponent<Rigidbody2D>();
-		Cactus_Jones2 = GameObject.Find("Cactus Jones");
+		CactusJones = GameObject.Find("Cactus Jones").GetComponent<Rigidbody2D>();
+		CactusJones2 = GameObject.Find("Cactus Jones");
 	}
 	
 	public void RespawnPlayer(){
@@ -35,15 +35,15 @@ public class LevelManager : MonoBehaviour {
 
 	public IEnumerator RespawnPlayerCo(){
 		//Generate Death Particle
-		Instantiate (DeathPS, Cactus_Jones.transform.position, Cactus_Jones.transform.rotation);
-		//Hide PC
-		// PC.enabled = false;
-		Cactus_Jones2.SetActive(false);
-		Cactus_Jones.GetComponent<Renderer> ().enabled = false;
+		Instantiate (DeathParticle, CactusJones.transform.position, CactusJones.transform.rotation);
+		//Hide CactusJones
+		// CactusJones.enabled = false;
+		CactusJones2.SetActive(false);
+		CactusJones.GetComponent<Renderer> ().enabled = false;
 		// Gravity Reset
-		GravityStore = Cactus_Jones.GetComponent<Rigidbody2D>().gravityScale;
-		Cactus_Jones.GetComponent<Rigidbody2D>().gravityScale = 0f;
-		Cactus_Jones.GetComponent<Rigidbody2D>().velocity = Vector2.zero;
+		GravityStore = CactusJones.GetComponent<Rigidbody2D>().gravityScale;
+		CactusJones.GetComponent<Rigidbody2D>().gravityScale = 0f;
+		CactusJones.GetComponent<Rigidbody2D>().velocity = Vector2.zero;
 		// Point Penalty
 		ScoreManager.AddPoints(-PointPenaltyOnDeath);
 		//Debug Message
@@ -51,14 +51,14 @@ public class LevelManager : MonoBehaviour {
 		//Respawn Delay
 		yield return new WaitForSeconds (RespawnDelay);
 		//Gravity Restore
-		Cactus_Jones.GetComponent<Rigidbody2D>().gravityScale = GravityStore;
+		CactusJones.GetComponent<Rigidbody2D>().gravityScale = GravityStore;
 		//Match PCs transform position
-		Cactus_Jones.transform.position = CurrentCheckPoint.transform.position;
+		CactusJones.transform.position = CurrentCheckPoint.transform.position;
 		//Show PC
 		// PC.enabled = true;
-		Cactus_Jones2.SetActive(true);
-		Cactus_Jones.GetComponent<Renderer> ().enabled = true;
+		CactusJones2.SetActive(true);
+		CactusJones.GetComponent<Renderer> ().enabled = true;
 		//Spawn PC
-		Instantiate (RespawnPS, CurrentCheckPoint.transform.position, CurrentCheckPoint.transform.rotation);
+		Instantiate (RespawnParticle, CurrentCheckPoint.transform.position, CurrentCheckPoint.transform.rotation);
 	}
 }

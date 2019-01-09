@@ -1,21 +1,20 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
+using System.Collections;
 
 public class KillPlayer : MonoBehaviour {
 
 
-		public LevelManager LevelManager;
+	public LevelManager LevelManager;
 
-		// Use this for initialization
-		void Start () {
-			LevelManager = FindObjectOfType <LevelManager>();
-		}
+	// Use this for initialization
+	void Start () {
+		LevelManager = FindObjectOfType <LevelManager>();
+	}
 	
-		void OnTriggerEnter2D(Collider2D other){
-				if(other.name == "Cactus Jones"){
-						LevelManager.RespawnPlayer();
-				}
-		
+	void OnTriggerEnter2D(Collider2D other){
+		if(other.name == "Cactus Jones"){
+			LevelManager.RespawnPlayer();
 		}
+		
+	}
 }

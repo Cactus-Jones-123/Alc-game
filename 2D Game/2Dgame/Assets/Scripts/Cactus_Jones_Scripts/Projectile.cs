@@ -6,7 +6,7 @@ public class Projectile : MonoBehaviour {
 	public float Speed;
 
 	public float TimeOut;
-	public GameObject Cactus_Jones;
+	public GameObject CactusJones;
 
 	public GameObject EnemyDeath;
 
@@ -16,13 +16,13 @@ public class Projectile : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		 Cactus_Jones = GameObject.Find("prefabs/Cactus Jones"); 
+		 CactusJones = GameObject.Find("Cactus Jones"); 
 
 		 EnemyDeath = Resources.Load("prefabs/DeathPS") as GameObject;
 
 		 ProjectileParticle = Resources.Load("prefabs/RespawnPS") as GameObject;
 
-		if(Cactus_Jones.transform.localScale.x < 0)
+		if(CactusJones.transform.localScale.x < 0)
 			Speed = -Speed;
 
 			

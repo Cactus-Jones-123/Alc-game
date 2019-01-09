@@ -1,6 +1,5 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
+using System.Collections;
 
 public class CharacterMove : MonoBehaviour {
 
@@ -13,9 +12,6 @@ public class CharacterMove : MonoBehaviour {
 	public float groundCheckRadius;
 	public LayerMask whatIsGround;
 	private bool grounded;
-
-    //Non-Slide player
-    private float moveVelocity;
 
 	// Use this for initialization
 	void Start () {
@@ -34,8 +30,6 @@ public class CharacterMove : MonoBehaviour {
 		if(Input.GetKeyDown (KeyCode.W)&& grounded){
 			Jump();
 		}
-        //Non-Slide Player
-		moveVelocity = 0f;
 
 		// This code makes the character move from side to side using the A&D keys
 		if(Input.GetKey (KeyCode.D)){

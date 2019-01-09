@@ -1,9 +1,9 @@
-﻿using System.Collections;
-using UnityEngine;
+﻿using UnityEngine;
+using System.Collections;
 
 public class EnemyPatrol : MonoBehaviour {
 
-	// Movement Variable
+	// Movement Variables
 	public float MoveSpeed;
 	public bool MoveRight;
 
@@ -12,16 +12,16 @@ public class EnemyPatrol : MonoBehaviour {
 	public float WallCheckRadius;
 	public LayerMask WhatIsWall;
 	private bool HittingWall;
-
+	
 	// Edge Check
 	private bool NotAtEdge;
 	public Transform EdgeCheck;
-
-
+	
+	
 	// Update is called once per frame
 	void Update () {
 		NotAtEdge = Physics2D.OverlapCircle(EdgeCheck.position, WallCheckRadius, WhatIsWall);
-		
+
 		HittingWall = Physics2D.OverlapCircle(WallCheck.position, WallCheckRadius, WhatIsWall);
 
 		if (HittingWall || !NotAtEdge){
@@ -34,7 +34,7 @@ public class EnemyPatrol : MonoBehaviour {
 		}
 		else {
 			transform.localScale = new Vector3(0.25f,0.25f,1f);
-			GetComponent<Rigidbody2D>().velocity = new Vector2(-MoveSpeed, GetComponent<Rigidbody2D>().velocity.y);	
+			GetComponent<Rigidbody2D>().velocity = new Vector2(-MoveSpeed, GetComponent<Rigidbody2D>().velocity.y);
 		}
 	}
 }
