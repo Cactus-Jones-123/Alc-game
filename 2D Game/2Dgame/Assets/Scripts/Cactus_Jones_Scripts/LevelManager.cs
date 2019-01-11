@@ -36,8 +36,8 @@ public class LevelManager : MonoBehaviour {
 	public IEnumerator RespawnPlayerCo(){
 		//Generate Death Particle
 		Instantiate (DeathParticle, CactusJones.transform.position, CactusJones.transform.rotation);
-		//Hide CactusJones
-		// CactusJones.enabled = false;
+		//Hide PC
+		// PC.enabled = false;
 		CactusJones2.SetActive(false);
 		CactusJones.GetComponent<Renderer> ().enabled = false;
 		// Gravity Reset

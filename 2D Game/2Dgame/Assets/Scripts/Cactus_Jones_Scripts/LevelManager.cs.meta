@@ -3,7 +3,16 @@ guid: 697df8e65f733469fbcac52fa599619b
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - CurrentCheckPoint: {fileID: 1206431771348996, guid: a23dcb713c61748f980ce1a680df3041,
+      type: 2}
+  - CactusJones: {instanceID: 0}
+  - CactusJones2: {fileID: 1530117847471400, guid: a4adc5223ada84f5894a696abf83e061,
+      type: 2}
+  - DeathParticle: {fileID: 1799253141570134, guid: a4695814a1818433daab58f25b2b5cc2,
+      type: 2}
+  - RespawnParticle: {fileID: 1156593851936026, guid: 79b147a23098348c7b5b03faff6e036e,
+      type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
